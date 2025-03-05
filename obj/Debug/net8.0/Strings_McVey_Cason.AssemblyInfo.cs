@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Strings_McVey_Cason")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f598fdf08bd5874b492a1d9aa0cae77199fe46d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Strings_McVey_Cason")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Strings_McVey_Cason")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

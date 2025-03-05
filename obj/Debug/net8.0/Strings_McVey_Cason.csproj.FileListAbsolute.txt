@@ -1,0 +1,15 @@
+C:\Users\CASONMCVEY\source\repos\Strings_McVey_Cason\Strings_McVey_Cason\bin\Debug\net8.0\Strings_McVey_Cason.exe
+C:\Users\CASONMCVEY\source\repos\Strings_McVey_Cason\Strings_McVey_Cason\bin\Debug\net8.0\Strings_McVey_Cason.deps.json
+C:\Users\CASONMCVEY\source\repos\Strings_McVey_Cason\Strings_McVey_Cason\bin\Debug\net8.0\Strings_McVey_Cason.runtimeconfig.json
+C:\Users\CASONMCVEY\source\repos\Strings_McVey_Cason\Strings_McVey_Cason\bin\Debug\net8.0\Strings_McVey_Cason.dll
+C:\Users\CASONMCVEY\source\repos\Strings_McVey_Cason\Strings_McVey_Cason\bin\Debug\net8.0\Strings_McVey_Cason.pdb
+C:\Users\CASONMCVEY\source\repos\Strings_McVey_Cason\Strings_McVey_Cason\obj\Debug\net8.0\Strings_McVey_Cason.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASONMCVEY\source\repos\Strings_McVey_Cason\Strings_McVey_Cason\obj\Debug\net8.0\Strings_McVey_Cason.AssemblyInfoInputs.cache
+C:\Users\CASONMCVEY\source\repos\Strings_McVey_Cason\Strings_McVey_Cason\obj\Debug\net8.0\Strings_McVey_Cason.AssemblyInfo.cs
+C:\Users\CASONMCVEY\source\repos\Strings_McVey_Cason\Strings_McVey_Cason\obj\Debug\net8.0\Strings_McVey_Cason.csproj.CoreCompileInputs.cache
+C:\Users\CASONMCVEY\source\repos\Strings_McVey_Cason\Strings_McVey_Cason\obj\Debug\net8.0\Strings_McVey_Cason.sourcelink.json
+C:\Users\CASONMCVEY\source\repos\Strings_McVey_Cason\Strings_McVey_Cason\obj\Debug\net8.0\Strings_McVey_Cason.dll
+C:\Users\CASONMCVEY\source\repos\Strings_McVey_Cason\Strings_McVey_Cason\obj\Debug\net8.0\refint\Strings_McVey_Cason.dll
+C:\Users\CASONMCVEY\source\repos\Strings_McVey_Cason\Strings_McVey_Cason\obj\Debug\net8.0\Strings_McVey_Cason.pdb
+C:\Users\CASONMCVEY\source\repos\Strings_McVey_Cason\Strings_McVey_Cason\obj\Debug\net8.0\Strings_McVey_Cason.genruntimeconfig.cache
+C:\Users\CASONMCVEY\source\repos\Strings_McVey_Cason\Strings_McVey_Cason\obj\Debug\net8.0\ref\Strings_McVey_Cason.dll
